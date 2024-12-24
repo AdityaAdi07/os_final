@@ -1,0 +1,34 @@
+{
+"metrics": [
+  {
+    "threadCount": 1,
+    "processingTime": 0.02,
+    "imageWidth": 1024,
+    "imageHeight": 1024
+  },
+  {
+    "threadCount": 2,
+    "processingTime": 0.01,
+    "imageWidth": 1024,
+    "imageHeight": 1024
+  },
+  {
+    "threadCount": 4,
+    "processingTime": 0.01,
+    "imageWidth": 1024,
+    "imageHeight": 1024
+  },
+  {
+    "threadCount": 8,
+    "processingTime": 0.01,
+    "imageWidth": 1024,
+    "imageHeight": 1024
+  },
+  {
+    "threadCount": 16,
+    "processingTime": 0.01,
+    "imageWidth": 1024,
+    "imageHeight": 1024
+  }
+]
+}
